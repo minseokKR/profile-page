@@ -1,0 +1,15 @@
+.red-box {
+	background: rgb(189, 22, 22);
+	padding: 20px;
+	border-radius: 5px;
+	box-shadow: 2px 2px 4px 2px #f4ff2c;
+}
+
+.pill {
+    display: inline-block;
+    border: 1px solid lightgrey;
+    border-radius: 100px;
+    padding: 3px 12px 5px 12px;
+    margin-right: 2px;
+    margin-bottom: 5px
+}
